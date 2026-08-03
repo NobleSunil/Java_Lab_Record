@@ -1,10 +1,28 @@
-### IntelliJ IDEA ###
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
+.kotlin/
 
-### Eclipse ###
+# =========================
+# Java Build Files
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Maven / Gradle
+# =========================
+target/
+build/
+
+# =========================
+# Eclipse
+# =========================
 .apt_generated
 .classpath
 .factorypath
@@ -13,18 +31,28 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
-### NetBeans ###
+# =========================
+# NetBeans
+# =========================
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+# =========================
+# VS Code
+# =========================
 .vscode/
 
-### Mac OS ###
+# =========================
+# macOS / Windows
+# =========================
 .DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
