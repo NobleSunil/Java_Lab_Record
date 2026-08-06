@@ -37,9 +37,9 @@ Java_Lab_Record/
 ## 📚 Course Outcomes
 
 ### CO1 – Java Fundamentals
-- [ ] Student Information Display
-- [ ] Simple Interest Calculator
-- [ ] Find and Correct Errors
+- [x] Student Information Display
+- [x] Simple Interest Calculator
+- [x] Find and Correct Errors
 - [ ] Data Types Demonstration
 - [ ] Employee Salary Calculator
 - [ ] Find Maximum Element in Array
