@@ -7,8 +7,8 @@ public class Employee {
     double salary;
 
     // Parameterized constructor
-    Employee(String name, double salary) {
-        this.name = name;
+    Employee(String nam, double salary) {
+        name = nam;
         this.salary = salary;
     }
 
