@@ -175,20 +175,3 @@ Java_Lab_Record/
 **Java Lab Record: 65/65 Programs Completed ✅**
 
 **All Course Outcomes Completed — CO1, CO2, CO3, CO4 & CO5 🎉**
-
----
-
-## 📂 Project Structure
-
-```text
-Java_Lab_Record/
-│
-├── src/
-│   ├── co1/
-│   ├── co2/
-│   ├── co3/
-│   ├── co4/
-│   └── co5/
-│
-├── README.md
-└── .gitignore
