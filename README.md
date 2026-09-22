@@ -37,6 +37,7 @@ Java_Lab_Record/
 ## 📚 Course Outcomes
 
 ### CO1 – Java Fundamentals
+
 - [x] Student Information Display
 - [x] Simple Interest Calculator
 - [x] Find and Correct Errors
@@ -63,6 +64,7 @@ Java_Lab_Record/
 ---
 
 ### CO2 – Object-Oriented Programming
+
 - [x] Default Constructor
 - [x] Parameterized Constructor
 - [x] Constructor Overloading
@@ -79,51 +81,114 @@ Java_Lab_Record/
 - [x] Recursive Factorial
 - [x] Recursive Sum of Natural Numbers
 - [x] Recursive Fibonacci Number
-- [ ] Access Control using Getter and Setter
-- [ ] Static Variable – Object Counter
-- [ ] Static Method – Temperature Conversion
-- [ ] Final Keyword – PI and Circle Area
+- [x] Access Control using Getter and Setter
+- [x] Static Variable – Object Counter
+- [x] Static Method – Temperature Conversion
+- [x] Final Keyword – PI and Circle Area
 
-**CO2 Progress: 16/20**
+**CO2 Progress: 20/20 ✅**
 
 ---
 
 ### CO3 – Inheritance, Abstract Classes & Interfaces
-- [ ] Employee and Manager
-- [ ] Student and PGStudent
-- [ ] Bank Account and Savings Account
-- [ ] Vehicle and Car
-- [ ] Library Item and Book
 
-**CO3 Progress: 0/5**
+#### Inheritance
+
+- [x] Employee and Manager
+- [x] Student and PGStudent
+- [x] Bank Account and Savings Account
+- [x] Vehicle and Car
+- [x] Library Item and Book
+
+#### Abstract Classes & Interfaces
+
+- [x] University Evaluation System
+- [x] Smart Device Control System
+- [x] Emergency Rescue Robot
+
+**CO3 Progress: 8/8 ✅**
 
 ---
 
-### CO4
-- [ ] Coming Soon
+### CO4 – Exception Handling, File I/O & Multithreading
+
+#### Exception Handling
+
+- [x] Try-Catch
+- [x] Finally Block
+- [x] `throw` and `throws`
+- [x] Custom Exception
+
+#### File I/O
+
+- [x] File Class
+- [x] Reading Files using Scanner
+- [x] Writing Files using PrintWriter
+- [x] File I/O with Exception Handling
+
+#### Multithreading
+
+- [x] Creating Thread by Extending `Thread`
+- [x] Creating Thread using `Runnable`
+- [x] Thread Synchronization using `synchronized`
+- [x] Thread Coordination using `wait()` and `notify()`
+
+**CO4 Progress: 12/12 ✅**
 
 ---
 
-### CO5
-- [ ] Coming Soon
+### CO5 – JavaFX
+
+- [x] JavaFX Program 1
+- [x] JavaFX Program 2
+- [x] JavaFX Program 3
+- [x] JavaFX Program 4
+- [x] JavaFX Program 5
+
+**CO5 Progress: 5/5 ✅**
 
 ---
 
 ## 🎯 Goals
 
-- Complete all Java lab programs before the semester deadline.
-- Maintain a consistent GitHub contribution streak.
-- Improve problem-solving and object-oriented programming skills.
-- Prepare for technical interviews by understanding every program instead of memorizing code.
+- [x] Complete all Java lab programs before the semester deadline.
+- [x] Maintain a consistent GitHub contribution streak.
+- [x] Improve problem-solving and object-oriented programming skills.
+- [x] Understand every program instead of simply memorizing code.
+- [x] Build a strong foundation for technical interviews.
 
 ---
 
-## 🚀 Progress
+## 🚀 Overall Progress
 
-- **Programs Completed:** 36 / 53
-- **CO1:** 20 / 20 ✅
-- **CO2:** 16 / 20
-- **CO3:** 0 / 5
-- **CO4:** Coming Soon
-- **CO5:** Coming Soon
-- **Current Status:** **Day 15 – Recursion Completed**
+| Course Outcome | Progress | Status |
+|---|---:|---|
+| CO1 – Java Fundamentals | 20/20 | ✅ Complete |
+| CO2 – OOP | 20/20 | ✅ Complete |
+| CO3 – Inheritance, Abstract Classes & Interfaces | 8/8 | ✅ Complete |
+| CO4 – Exception Handling, File I/O & Multithreading | 12/12 | ✅ Complete |
+| CO5 – JavaFX | 5/5 | ✅ Complete |
+| **Total** | **65/65** | **🎉 Complete** |
+
+### 🏆 Current Status
+
+**Java Lab Record: 65/65 Programs Completed ✅**
+
+**All Course Outcomes Completed — CO1, CO2, CO3, CO4 & CO5 🎉**
+
+---
+
+## 📂 Project Structure
+
+```text
+Java_Lab_Record/
+│
+├── src/
+│   ├── co1/
+│   ├── co2/
+│   ├── co3/
+│   ├── co4/
+│   └── co5/
+│
+├── README.md
+└── .gitignore
