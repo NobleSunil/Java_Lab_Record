@@ -31,7 +31,6 @@ Java_Lab_Record/
 ├── README.md
 └── .gitignore
 
-```markdown
 ## 📚 Course Outcomes
 
 ### CO1 – Java Fundamentals
